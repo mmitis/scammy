@@ -1,0 +1,9 @@
+{
+  "name": "RunCoin",
+  "symbol": "RNK",
+  "description": "No description, just run",
+  "image": "https://example.com/te06836df-9b9f-4a33-a191-332d2e3bc2c1.png",
+  "attributes": [
+    { "trait_type": "Blockchain", "value": "Solana" }
+  ]
+}
